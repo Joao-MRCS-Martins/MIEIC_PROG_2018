@@ -1,1 +1,2 @@
-Programming exercises from practical classes coded in C++.
+# MIEIC_PROG_2018
+###### Programming exercises from practical classes coded in C++.
